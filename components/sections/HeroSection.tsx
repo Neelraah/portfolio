@@ -236,7 +236,7 @@ export function HeroSection() {
   {[
     { icon: FaGithub, href: "https://github.com/neelraah/", label: "GitHub" },
     { icon: FaLinkedin, href: "https://linkedin.com/in/harleen-1b9529310/", label: "LinkedIn" },
-    { icon: FileText, href: "/resume.pdf", label: "Resume" },
+    { icon: FileText, href: "/portfolio/Harleen_resume.pdf", label: "Resume" },
   ].map(({ icon: Icon, href, label }) => (
     <motion.a
       key={label}

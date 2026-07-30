@@ -247,7 +247,7 @@ export function ContactSection() {
               </a>
 
               <a
-                href="/portfolio/harleen_resume.pdf"
+                href="/portfolio/Harleen_resume.pdf"
                 target="_blank"
                 className="flex items-center gap-2 px-6 py-3 rounded-xl border border-white/10 hover:border-cyan-400 transition"
               >
